@@ -1,0 +1,26 @@
+[
+    {
+        "firstName":"Juan",
+        "lastName":"Perez",
+        "email":"jperez@gmail.com",
+        "password":"asd.456",
+        "gender":"M",
+        "birthdate":"12/12/2012"
+    },
+    {
+        "firstName":"Pedro",
+        "lastName":"Martinez",
+        "email":"pmartinez@gmail.com",
+        "password":"asd.456",
+        "gender":"M",
+        "birthdate":"12/12/2012"
+    },
+    {
+        "firstName":"Maria",
+        "lastName":"Juarez",
+        "email":"mjuarez@gmail.com",
+        "password":"asd.456",
+        "gender":"F",
+        "birthdate":"12/12/2012"
+    }
+]
